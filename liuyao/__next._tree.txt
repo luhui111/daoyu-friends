@@ -1,4 +1,4 @@
 :HL["/daoyu-friends/_next/static/css/7314e241d1bf7cf0.css","style"]
-:HL["/daoyu-friends/_next/static/css/edc396672ab975eb.css","style"]
+:HL["/daoyu-friends/_next/static/css/f881a2170e036ce1.css","style"]
 :HL["/daoyu-friends/_next/static/css/6254bfa53e235066.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"c","key":"liuyao","siblings":["_not-found","_global-error"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"qRNKluwLw-9PwhzGIs_Ep"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"c","key":"liuyao","siblings":["_not-found","_global-error"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"3j565gZgB7MXBMMc6dmUC"}
